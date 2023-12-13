@@ -55,7 +55,9 @@ header{
       max-width: 1152px;
     }
   }
-
+.btn.btn-secondary {
+    text-decoration: none;
+  }
 header nav .left a{
     color:var(--pure);
     text-decoration: none;
